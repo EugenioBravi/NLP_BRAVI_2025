@@ -1,8 +1,8 @@
 # TP2 - Procesamiento del Lenguaje Natural: Chatbot de Parks
 
-## Descripción del Proyecto (Resumen del Trabajo Práctico)
+## Descripción del Proyecto 
 
-Este Trabajo Práctico (TP) se centra en el desarrollo de un chatbot avanzado para el juego de mesa **Parks**, utilizando diversas técnicas de Procesamiento del Lenguaje Natural (PLN) y Arquitecturas de Recuperación Aumentada por Generación (RAG). El objetivo principal es construir un sistema capaz de responder de manera precisa y contextualizada a preguntas de los usuarios sobre las reglas, mecánicas, estadísticas y el lore del juego.
+Este Trabajo Práctico se centra en el desarrollo de un chatbot avanzado para el juego de mesa **Parks**, utilizando diversas técnicas de Procesamiento del Lenguaje Natural (PLN) y Arquitecturas de Recuperación Aumentada por Generación (RAG). El objetivo principal es construir un sistema capaz de responder de manera precisa y contextualizada a preguntas de los usuarios sobre las reglas, mecánicas, estadísticas y el lore del juego.
 
 El proyecto aborda el desafío de integrar múltiples fuentes de información y mecanismos de búsqueda:
 
